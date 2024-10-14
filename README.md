@@ -1,2 +1,4 @@
 # apanaCollege-Demo
-This is just first apnacollege demo.Aathor Name-Priyanka Khot
+This is just first apnacollege demo.
+<br>
+Aathor Name-Priyanka Khot
